@@ -1,27 +1,93 @@
-# 💫 About Me:
-I am an AI/ML Engineer and Web Developer passionate about building intelligent, data-driven applications that deliver real-world impact.<br><br>Currently pursuing B.Tech in Computer Science (AI & ML) at Galgotias University, I specialize in machine learning, natural language processing, and interactive web technologies. My work focuses on combining technical engineering with UI/UX design to create modern and user-friendly digital solutions.<br><br>I have experience developing machine learning systems such as AI-powered resume screening tools and fake news detection models using Python, TensorFlow, and Scikit-learn. I also build web interfaces and interactive tools using HTML, CSS, JavaScript, and modern frameworks.<br><br>Alongside development, I work as a freelance graphic designer and illustrator with over 7 years of experience and have created 3000+ digital assets published on platforms like Freepik, Adobe Stock, and Shutterstock.<br><br>Core Skills:<br>• Machine Learning & NLP<br>• Python, TensorFlow, Scikit-learn<br>• Web Development (HTML, CSS, JavaScript)<br>• Data Structures & Algorithms<br>• UI/UX Design and Digital Illustration<br><br>I am always interested in collaborating on innovative AI projects, building intelligent systems, and solving real-world problems with technology.
+# ⚡ Sangram Adhikary
+### AI/ML Engineer & Full-Stack Developer
 
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sangramadhikary01) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sangram.adhikary.587) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sangram_ad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sangramadhikary) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Physical-Corner7014) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SangramAdhikary) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sangramadhikary900@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SANGRAMADHIKARYsrc&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SANGRAMADHIKARYsrc&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SANGRAMADHIKARYsrc&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SANGRAMADHIKARYsrc&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SANGRAMADHIKARYsrc&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <a href="https://sangramadhikary.netlify.app/">🌐 Personal Portfolio</a> • 
+  <a href="https://nextgenaistudio.netlify.app/">🚀 NextGen AI Studio</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SANGRAMADHIKARYsrc&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I am an AI/ML Engineer and Web Developer passionate about building intelligent, data-driven applications that deliver real-world impact. Currently pursuing a B.Tech in Computer Science (AI & ML) at Galgotias University, I specialize in machine learning, natural language processing, and interactive web technologies. My work focuses on combining technical engineering with intuitive UI/UX design to create modern, user-friendly digital solutions.
+
+- 🔭 **Current Focus**: Building intelligent full-stack systems and automated utilities.
+- 🎨 **Creative Background**: Freelance graphic designer and illustrator with 7+ years of experience. Published 3000+ digital assets on Freepik, Adobe Stock, and Shutterstock.
+- 💬 **Collaborations**: Always open to collaborating on innovative AI projects, intelligent systems, and technology solutions.
+
+---
+
+## 🚀 Featured Live Projects
+
+* **[NextGen AI Studio](https://nextgenaistudio.netlify.app/)** — An all-in-one AI-powered productivity tool suite featuring 30+ writing, media, detection, and developer utilities. Built with Next.js, React, and Google Gemini AI.
+* **[Personal Portfolio](https://sangramadhikary.netlify.app/)** — Premium digital portfolio showcasing software engineering projects, UI/UX designs, and illustration assets.
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Artificial Intelligence & Data Science
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)](https://matplotlib.org/)
+
+### 🌐 Frontend & Backend Web
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+### ☁️ Infrastructure & Tools
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)](https://github.com/microsoft/terminal)
+
+### 🎨 Creative & UI/UX Design
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/)
+[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=flat-square&logo=adobe-xd&logoColor=FF61F6)](https://www.adobe.com/products/xd.html)
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SANGRAMADHIKARYsrc&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANGRAMADHIKARYsrc&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SANGRAMADHIKARYsrc&theme=transparent&hide_border=false" height="150" />
+</p>
+
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SANGRAMADHIKARYsrc&theme=transparent&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+### 🔝 Top Contributions
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=SANGRAMADHIKARYsrc&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/sangramadhikary">💼 LinkedIn</a> •
+  <a href="https://behance.net/sangramadhikary01">🎨 Behance</a> •
+  <a href="mailto:sangramadhikary900@gmail.com">✉️ Email</a>
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=SANGRAMADHIKARYsrc&icon=5&color=0" /></a>
+</p>
