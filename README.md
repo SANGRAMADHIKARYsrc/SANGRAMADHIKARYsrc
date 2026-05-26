@@ -61,24 +61,17 @@ I am an AI/ML Engineer and Web Developer passionate about building intelligent, 
 
 ## 📊 GitHub Performance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SANGRAMADHIKARYsrc&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANGRAMADHIKARYsrc&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=SANGRAMADHIKARYsrc&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SANGRAMADHIKARYsrc&theme=transparent&hide_border=false" height="150" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SANGRAMADHIKARYsrc&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://nirzak-streak-stats.vercel.app/?user=SANGRAMADHIKARYsrc&theme=transparent&hide_border=false)
 
 ### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SANGRAMADHIKARYsrc&theme=transparent&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=SANGRAMADHIKARYsrc&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributions
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SANGRAMADHIKARYsrc&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+![](https://github-contributor-stats.vercel.app/api?username=SANGRAMADHIKARYsrc&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -89,5 +82,5 @@ I am an AI/ML Engineer and Web Developer passionate about building intelligent, 
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=SANGRAMADHIKARYsrc&icon=5&color=0" /></a>
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=SANGRAMADHIKARYsrc&icon=5&color=0" height="20"></a>
 </p>
