@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240">
+
+  <!-- Background card -->
+  <rect width="880" height="240" rx="16" fill="#0d1117" stroke="#21262d" stroke-width="1.5"/>
+
+  <!-- Title -->
+  <text x="440" y="38" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="700" fill="#58a6ff">
+    &#x1F9E9; Languages I Work With
+  </text>
+
+  <!-- Separator line -->
+  <line x1="40" y1="52" x2="840" y2="52" stroke="#21262d" stroke-width="1"/>
+
+  <!-- ══════════ JAVA  cx=75 ══════════ -->
+  <!-- Track -->
+  <circle cx="75" cy="140" r="48" fill="none" stroke="#1c2128" stroke-width="9"/>
+  <!-- Progress: 4.1% of 301.6 = 12.4 -->
+  <circle cx="75" cy="140" r="48" fill="none" stroke="#ED8B00" stroke-width="9"
+          stroke-dasharray="12.4 301.6" stroke-dashoffset="75.4" stroke-linecap="round"/>
+  <!-- Percentage -->
+  <text x="75" y="135" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff">4.1%</text>
+  <text x="75" y="152" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="9" fill="#8b949e">Java</text>
+  <!-- Icon + Label below -->
+  <text x="75" y="210" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#ED8B00">&#x2615; Java</text>
+
+  <!-- ══════════ PYTHON  cx=200 ══════════ -->
+  <circle cx="200" cy="140" r="48" fill="none" stroke="#1c2128" stroke-width="9"/>
+  <!-- 0.23% of 301.6 = 0.69 -->
+  <circle cx="200" cy="140" r="48" fill="none" stroke="#3776AB" stroke-width="9"
+          stroke-dasharray="0.7 301.6" stroke-dashoffset="75.4" stroke-linecap="round"/>
+  <text x="200" y="135" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff">0.2%</text>
+  <text x="200" y="152" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="9" fill="#8b949e">Python</text>
+  <text x="200" y="210" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#3776AB">&#x1F40D; Python</text>
+
+  <!-- ══════════ TYPESCRIPT  cx=325 ══════════ -->
+  <circle cx="325" cy="140" r="48" fill="none" stroke="#1c2128" stroke-width="9"/>
+  <!-- 3.19% of 301.6 = 9.6 -->
+  <circle cx="325" cy="140" r="48" fill="none" stroke="#3178C6" stroke-width="9"
+          stroke-dasharray="9.6 301.6" stroke-dashoffset="75.4" stroke-linecap="round"/>
+  <text x="325" y="135" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff">3.2%</text>
+  <text x="325" y="152" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="9" fill="#8b949e">TypeScript</text>
+  <text x="325" y="210" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#3178C6">&#x1F537; TypeScript</text>
+
+  <!-- ══════════ HTML  cx=450 ══════════ -->
+  <circle cx="450" cy="140" r="48" fill="none" stroke="#1c2128" stroke-width="9"/>
+  <!-- 2.24% of 301.6 = 6.76 -->
+  <circle cx="450" cy="140" r="48" fill="none" stroke="#E34F26" stroke-width="9"
+          stroke-dasharray="6.8 301.6" stroke-dashoffset="75.4" stroke-linecap="round"/>
+  <text x="450" y="135" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff">2.2%</text>
+  <text x="450" y="152" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="9" fill="#8b949e">HTML</text>
+  <text x="450" y="210" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#E34F26">&#x1F310; HTML5</text>
+
+  <!-- ══════════ CSS  cx=575 ══════════ -->
+  <circle cx="575" cy="140" r="48" fill="none" stroke="#1c2128" stroke-width="9"/>
+  <!-- 1.14% of 301.6 = 3.44 -->
+  <circle cx="575" cy="140" r="48" fill="none" stroke="#1572B6" stroke-width="9"
+          stroke-dasharray="3.4 301.6" stroke-dashoffset="75.4" stroke-linecap="round"/>
+  <text x="575" y="135" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff">1.1%</text>
+  <text x="575" y="152" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="9" fill="#8b949e">CSS</text>
+  <text x="575" y="210" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#1572B6">&#x1F3A8; CSS3</text>
+
+  <!-- ══════════ JAVASCRIPT  cx=700 ══════════ -->
+  <circle cx="700" cy="140" r="48" fill="none" stroke="#1c2128" stroke-width="9"/>
+  <!-- 0.52% of 301.6 = 1.57 -->
+  <circle cx="700" cy="140" r="48" fill="none" stroke="#F7DF1E" stroke-width="9"
+          stroke-dasharray="1.6 301.6" stroke-dashoffset="75.4" stroke-linecap="round"/>
+  <text x="700" y="135" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff">0.5%</text>
+  <text x="700" y="152" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="9" fill="#8b949e">JavaScript</text>
+  <text x="700" y="210" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#F7DF1E">&#x26A1; JavaScript</text>
+
+  <!-- ══════════ JUPYTER  cx=825 ══════════ -->
+  <circle cx="825" cy="140" r="48" fill="none" stroke="#1c2128" stroke-width="9"/>
+  <!-- 92.68% of 301.6 = 279.5 -->
+  <circle cx="825" cy="140" r="48" fill="none" stroke="#F37726" stroke-width="9"
+          stroke-dasharray="279.5 301.6" stroke-dashoffset="75.4" stroke-linecap="round"/>
+  <text x="825" y="135" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff">92.7%</text>
+  <text x="825" y="152" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="9" fill="#8b949e">Jupyter</text>
+  <text x="825" y="210" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#F37726">&#x1F4D3; Jupyter</text>
+
+</svg>
